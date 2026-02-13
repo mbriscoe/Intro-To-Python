@@ -176,4 +176,17 @@ After completing this notebook, consider exploring:
 
 ---
 
-**Happy Coding! 🐍💻**
+## **Happy Coding! 🐍💻**
+
+## 👨‍💻 Author
+
+<div align="center">
+
+![Code Institute](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+
+**Mark Briscoe**  
+Code Institute
+
+📧 [mark.briscoe@codeinstitute.net](mailto:mark.briscoe@codeinstitute.net)
+
+</div>
